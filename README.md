@@ -1,0 +1,2 @@
+# bitnote
+Store your secrets safely without subscriptions. Ultra-secure notes powered by blockchain.
