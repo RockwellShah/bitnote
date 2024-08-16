@@ -16,7 +16,7 @@ Why BitNote?
 
 We created BitNote because we ran into an annoying problem: where do you store secret information?
 ‍
-The traditional advice is to use a fireproof safe that is bolted to the ground in a hidden place in your house. That’s great advice if you’re Batman. Unfortunately, for the rest of us that kind of physical security is not really feasible.
+The traditional advice is to use a fireproof safe that is bolted to the ground in a hidden place in your house. That’s great if you’re Batman. Unfortunately, for the rest of us that kind of physical security is not really feasible.
 
 Many people turn to centralized password managers like 1Password or Lastpass. Not only can these have pricey subscriptions and the threat of going out of business, they can also have a lot of security issues. And because they are not open source, you never really know what’s going on with your data.
 
