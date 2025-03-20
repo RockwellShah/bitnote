@@ -1,5 +1,5 @@
 # bitnote
-Protect Your Secrets. Ultra-secure notes powered by blockchain. https://bitnote.xyz
+Protect Your Secrets Forever. Ultra-secure notes powered by blockchain. https://bitnote.xyz
 
 Web Files:
 - index.html:	                landing page of the app, contains all app html/css/js that run within the main thread.
