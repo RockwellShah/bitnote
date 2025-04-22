@@ -160,13 +160,13 @@ Yes. BitNote has been audited by Cure53, a very reputable cybersecurity firm.
 
 ---
 
-## 🔐 License
+### 🔐 License
 
 BitNote is licensed under BSL 1.1. It will transition to GPL v3.0 on **May 1, 2028**.  
 [Read the full license →](https://bitnote.xyz/license)
 
 ---
 
-## 🌐 Visit the App
+### 🌐 Visit the App
 
 [https://bitnote.xyz](https://bitnote.xyz)
