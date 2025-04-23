@@ -16,8 +16,7 @@ BitNote is built for people who want to store sensitive information without trus
 - ☑️ **Decentralized** — no one can delete or block your access.  
 - ☑️ **Truly Private** — no tracking, no personal data collection.  
 - ☑️ **Transparent Source Code** — audit everything, trust nothing.
-- ☑️ **Built to Last** — under 1MB, no frameworks, engineered for longevity.  
-- ☑️ **Resilient** — advanced security features to protect you, including default opt-in updates.
+- ☑️ **Built to Last** — no bloat, no frameworks, engineered for longevity.
 - ☑️ **Access anywhere** — no cloud, no sync, no setup. 
 - ☐ **Succession *(in development)*** — pass down your data automatically if something happens to you.
 
@@ -25,7 +24,7 @@ BitNote is built for people who want to store sensitive information without trus
 
 ### ⚙️ How It Works
 
-1. **Create & Save Secure Notes**: Write your note in the BitNote app. Your data is encrypted locally before being stored on the blockchain.
+1. **Create & Save Secure Notes**: Write your notes in the BitNote app. Your data is encrypted locally before being stored on the blockchain.
 
 2. **Access Anywhere**: Retrieve your encrypted notes from any device with a browser. Decryption happens locally, ensuring privacy.
 
