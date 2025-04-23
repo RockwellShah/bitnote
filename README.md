@@ -10,14 +10,16 @@ Ultra-secure notes powered by blockchain.
 
 BitNote is built for people who want to store sensitive information without trusting big tech, subscriptions, or centralized servers. It’s like a fireproof vault that lives on the blockchain — without the hardware or the hassle. It's great for passwords, private keys, seedphrases, or other sensitive text data.
 
-- ☑️ **Strong security** — “Military Grade” encryption to keep your secrets safe.  
-- ☑️ **No recurring fees** — pay once, no subscriptions.  
+- ☑️ **Strong Security** — “Military Grade” encryption to keep your secrets safe.  
+- ☑️ **No Recurring Fees** — pay once, no subscriptions.  
 - ☑️ **Zero Knowledge & E2E Encrypted** — only you can see your data.  
 - ☑️ **Decentralized** — no one can delete or block your access.  
 - ☑️ **Truly Private** — no tracking, no personal data collection.  
-- ☑️ **Transparent source code** — audit everything, trust nothing.  
-- ☑️ **Resilient** — under 1MB, no frameworks, built to last for a long time.  
-- ☐ **Succession *(in development)*** — pass down your data automatically if something happens to you
+- ☑️ **Transparent Source Code** — audit everything, trust nothing.
+- ☑️ **Built to Last** — under 1MB, no frameworks, engineered for longevity.  
+- ☑️ **Resilient** — advanced security features to protect you, including explicit opt-in updates.
+- ☑️ **Access anywhere** — no cloud, no sync, no setup. 
+- ☐ **Succession *(in development)*** — pass down your data automatically if something happens to you.
 
 ---
 
