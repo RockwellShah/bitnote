@@ -17,7 +17,7 @@ BitNote is built for people who want to store sensitive information without trus
 - ☑️ **Truly Private** — no tracking, no personal data collection.  
 - ☑️ **Transparent Source Code** — audit everything, trust nothing.
 - ☑️ **Built to Last** — under 1MB, no frameworks, engineered for longevity.  
-- ☑️ **Resilient** — advanced security features to protect you, including explicit opt-in updates.
+- ☑️ **Resilient** — advanced security features to protect you, including default opt-in updates.
 - ☑️ **Access anywhere** — no cloud, no sync, no setup. 
 - ☐ **Succession *(in development)*** — pass down your data automatically if something happens to you.
 
@@ -165,10 +165,10 @@ Yes. BitNote has been audited by Cure53, a very reputable cybersecurity firm.
 ### 🔐 License
 
 BitNote is licensed under BSL 1.1. It will transition to GPL v3.0 on **May 1, 2028**.  
-[Read the full license →](https://bitnote.xyz/license)
+[Read the full license](https://bitnote.xyz/license)
 
 ---
 
-### 🌐 Visit the App
+### 🌐 Visit BitNote
 
 [https://bitnote.xyz](https://bitnote.xyz)
