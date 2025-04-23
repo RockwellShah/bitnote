@@ -36,6 +36,16 @@ BitNote is built for people who want to store sensitive information without trus
 
 ---
 
+### ⚙️ Sign Up
+
+After tapping [sign up](https://app.bitnote.xyz/?sign_up), you’ll be asked to create a unique username. Then you'll be presented with options on how you'd like to secure your account (either master password or security key). You’ll also be asked to fund your account to register your username and create notes on the blockchain. You can pay using crypto, credit, debit, or Apple Pay. You DO NOT need crypto to use BitNote.
+
+BitNote is a “pay as you go” system. No subscriptions or recurring fees. You pay only to create/edit/delete notes, and viewing notes is free.
+
+To access your encrypted notes, just sign in with your credentials to BitNote.
+
+---
+
 ### 🌍 Use Cases
 
 - Passwords
@@ -128,6 +138,11 @@ While BitNote looks like a simple app, it has a number of advanced features that
   <img src="alert.png" alt="BitNote Alert Bar" width="1000"/>
 </p>
 
+3. **Cost to Crack**: If you choose to secure your account with a master password, we estimate your password strength with a “cost to crack” calculation that estimates how much an attacker would have to spend in compute resources to brute force your password.
+<p align="center">
+  <img src="cost.png" alt="BitNote Alert Bar" width="500"/>
+</p>
+
 ---
 
 ### 📜 Smart Contracts
@@ -147,7 +162,7 @@ While BitNote looks like a simple app, it has a number of advanced features that
 
 ### 🧩 Source Files & Hashes
 
-These are the core files that power BitNote, along with their SHA-256 hashes and links to verify integrity. [Generate hashes here.](https://app.bitnote.xyz/pages/hash_checker256/)
+These are the files that power BitNote, along with their SHA-256 hashes and links to verify integrity. [Generate hashes here.](https://app.bitnote.xyz/pages/hash_checker256/)
 
 ### 🔼 Launch Scripts
 - **[`index_inline.js`](https://app.bitnote.xyz/pages/js/index_inline.js)** – Inlined JavaScript that initializes the app  
@@ -192,7 +207,7 @@ Yes. BitNote has been audited by Cure53, a very reputable cybersecurity firm.
 
 ### 🔐 License
 
-BitNote is licensed under BSL 1.1. It will automatically transition to GPL v3.0 on **May 1, 2028**.  
+BitNote is licensed under BSL 1.1. It will automatically trigger an open source transition to GPL v3.0 on **May 1, 2028**.  
 [Read the full license](https://bitnote.xyz/license)
 
 ---
