@@ -130,7 +130,7 @@ For additional security, all the client side computation is handled within a web
 
 ### 🚨 Advanced Protection
 
-While BitNote looks like a simple app, it has a number of advanced features that help protect you, including:
+While BitNote may look like a simple app, it has a number of advanced features that help protect you, including:
 
 1. **Opt-In Updates**: BitNote updates are explicitly opt-in, meaning that you have to accept them before they happen. This gives you the opportunity to check to make sure the update is safe before applying it.
 <p align="left">
