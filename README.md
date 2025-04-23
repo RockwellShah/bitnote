@@ -21,7 +21,7 @@ BitNote is built for people who want to store sensitive information without trus
 - ☑️ **Truly Private** — no tracking, no personal data collection.  
 - ☑️ **Transparent Source Code** — audit everything, trust nothing.
 - ☑️ **Built to Last** — no bloat, no frameworks, engineered for longevity.
-- ☑️ **Access anywhere** — no cloud, no sync, no setup. 
+- ☑️ **Access anywhere** — no sync, no setup. 
 - ☐ **Succession *(in development)*** — pass down your data automatically if something happens to you.
 
 ---
