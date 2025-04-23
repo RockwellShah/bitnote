@@ -68,7 +68,7 @@ BitNote is built for people who want to store sensitive information without trus
 | **Secure Updater** | BitNote website updates are default opt-in, protecting you from supply chain attacks. | ✅ Available |
 | **Backup Keys** | Add unlimited backup hardware security keys to access your account | ✅ Available |
 | **Fiat Onramp** | Pay with Credit/Debit/Apple Pay | ✅ Available |
-| **Decentralized Website** | The entire app will be hosted on-chain for full decentralization. | 🕒 Upcoming |
+| **Decentralized App** | The entire app will be hosted on-chain for full decentralization. | 🕒 Upcoming |
 | **Succession** | Pass down your data automatically if something happens to you | 🕒 Upcoming |
 
 ---
@@ -86,7 +86,7 @@ BitNote is built for people who want to store sensitive information without trus
 
 BitNote runs entirely in your browser on a client/blockchain model. Your notes are encrypted locally using AES-256 through the web crypto API and stored on-chain. Only you (and those you explicitly authorize) can decrypt it. No centralized servers. It's just you, your browser, and the blockchain.
 
-For additional security, BitNote can be locally installed as a progressive web app on both desktop and mobile, run offline, and requires explicit user opt-in for updates.
+For additional security, BitNote can be locally installed as a progressive web app on both desktop and mobile, it can run offline, and requires explicit user opt-in for updates.
 
 - **Frontend**: Pure HTML/CSS/JS — no frameworks, under 1MB  
 - **Backend**: Smart contracts written in Solidity hosted on the Avalanche blockchain (C-Chain) 
@@ -111,6 +111,22 @@ When the user logs into BitNote, the keys are retrieved, decrypted client side, 
 For additional security, all the client side computation is handled within a web worker.
 
 > 🛡️ For added protection, **all cryptographic operations are run inside a web worker**, isolating them from the main thread.
+
+---
+
+### 🚨 Advanced Protection
+
+While BitNote looks like a simple app, it has a number of advanced features that help protect you, including:
+
+1. **Opt-In Updates**: BitNote updates are explicitly opt-in, meaning that you have to accept them before they happen. This gives you the opportunity to check to make sure the update is safe before applying it.
+<p align="left">
+  <img src="updates.png" alt="BitNote Update Bar" width="1000"/>
+</p>
+
+2. **Code Alert**: BitNote has a built in system to alert you if the version you have cached locally does not match what is being served to you through the web. This helps protect you against "supply chain attacks." If you ever see this alert come up on your app, please send a message through email/X/telegram and check BitNote's social channels to see if there is a legitimate reason for this before continuing to use the app.
+<p align="left">
+  <img src="alert.png" alt="BitNote Alert Bar" width="1000"/>
+</p>
 
 ---
 
@@ -176,7 +192,7 @@ Yes. BitNote has been audited by Cure53, a very reputable cybersecurity firm.
 
 ### 🔐 License
 
-BitNote is licensed under BSL 1.1. It will transition to GPL v3.0 on **May 1, 2028**.  
+BitNote is licensed under BSL 1.1. It will automatically transition to GPL v3.0 on **May 1, 2028**.  
 [Read the full license](https://bitnote.xyz/license)
 
 ---
