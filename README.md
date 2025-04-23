@@ -38,11 +38,15 @@ BitNote is built for people who want to store sensitive information without trus
 
 ### 🪧 Sign Up
 
-After tapping [sign up](https://app.bitnote.xyz/?sign_up), you’ll be asked to create a unique username. Then you'll be presented with options on how you'd like to secure your account (either master password or security key). You’ll also be asked to fund your account to register your username and create notes on the blockchain. You can pay using crypto, credit, debit, or Apple Pay. You DO NOT need crypto to use BitNote.
+After tapping [sign up](https://app.bitnote.xyz/?sign_up), you’ll be asked to create a unique username. Then you'll be presented with options on how you'd like to secure your account (either master password or security key). You’ll also be asked to fund your account to register your username and create notes on the blockchain. You can pay using crypto, credit, debit, or Apple Pay. You DO NOT need crypto to use BitNote. Once signed up, to access your encrypted notes just sign into BitNote with your credentials.
+
+---
+
+### 💵 Pricing
 
 BitNote is a “pay as you go” system. No subscriptions or recurring fees. You pay only to create/edit/delete notes, and viewing notes is free.
 
-To access your encrypted notes, just sign in with your credentials to BitNote.
+Generally, it costs less than $1 to setup your account. Note costs vary by length, but it'll usually come in around ~$0.005, allowing you to create even thousands of notes fairly cheaply.
 
 ---
 
