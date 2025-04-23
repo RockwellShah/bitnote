@@ -100,7 +100,7 @@ Generally, it costs less than $1 to setup your account. Note costs vary by lengt
 
 BitNote runs entirely in your browser on a client/blockchain model. Your notes are encrypted locally using AES-256 through the web crypto API and stored on-chain. Only you (and those you explicitly authorize) can decrypt it. No centralized servers. It's just you, your browser, and the blockchain.
 
-For additional security, BitNote can be locally installed as a progressive web app on both desktop and mobile, it can run offline, and requires explicit user opt-in for updates.
+For additional security, BitNote can be locally installed as a progressive web app on both desktop and mobile, can run offline, and requires explicit user opt-in for updates.
 
 - **Frontend**: Pure HTML/CSS/JS — no frameworks, under 1MB  
 - **Backend**: Smart contracts written in Solidity hosted on the Avalanche blockchain (C-Chain) 
