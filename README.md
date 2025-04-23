@@ -4,6 +4,10 @@
 Ultra-secure notes powered by blockchain.  
 🔗 [bitnote.xyz](https://bitnote.xyz)
 
+<p align="left">
+  <img src="hero.png" alt="BitNote Hero Image" width="1000"/>
+</p>
+
 ---
 
 ### ✅ Why BitNote
@@ -66,6 +70,15 @@ BitNote is built for people who want to store sensitive information without trus
 | **Fiat Onramp** | Pay with Credit/Debit/Apple Pay | ✅ Available |
 | **Decentralized Website** | The entire app will be hosted on-chain for full decentralization. | 🕒 Upcoming |
 | **Succession** | Pass down your data automatically if something happens to you | 🕒 Upcoming |
+
+---
+
+### 📺 Screenshots
+
+<p align="center">
+  <img src="homescreen.jpg" width="500" alt="Home screen" />
+  <img src="note.webp" width="500" alt="Note view" />
+</p>
 
 ---
 
@@ -171,3 +184,4 @@ BitNote is licensed under BSL 1.1. It will transition to GPL v3.0 on **May 1, 20
 ### 🌐 Visit BitNote
 
 [https://bitnote.xyz](https://bitnote.xyz)
+
