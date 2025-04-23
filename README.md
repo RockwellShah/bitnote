@@ -36,7 +36,7 @@ BitNote is built for people who want to store sensitive information without trus
 
 ---
 
-### ⚙️ Sign Up
+### 🪧 Sign Up
 
 After tapping [sign up](https://app.bitnote.xyz/?sign_up), you’ll be asked to create a unique username. Then you'll be presented with options on how you'd like to secure your account (either master password or security key). You’ll also be asked to fund your account to register your username and create notes on the blockchain. You can pay using crypto, credit, debit, or Apple Pay. You DO NOT need crypto to use BitNote.
 
