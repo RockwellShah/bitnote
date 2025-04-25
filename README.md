@@ -170,11 +170,11 @@ These are the files that power BitNote, along with their SHA-256 hashes and link
 
 ### 🔼 Launch Scripts
 - **[`index_inline.js`](https://app.bitnote.xyz/pages/js/index_inline.js)** – Inlined JavaScript that initializes the app  
-  `sha256-GgW+4tw40Bz4VKXknydcXutmTkyHEGQWBJ+prKQVZ1Q=`
+  `sha256-9f3K+SH47nSVfeCKjM/VYYBzHHgS46+NQJuU9oIp6nY=`
 
 ### 🔐 Encryption Engine
 - **[`ww.js`](https://app.bitnote.xyz/pages/js/ww.js)** – Handles all encryption; runs in a dedicated web worker  
-  `sha256-G1MiiPq/7Q46PppJHATIjkf7tf8ln23NyFwUljW91Pg=`
+  `sha256-G1MiiPq/7Q46PppJHATljkf7tf8ln23NyFwUIjW91Pg=`
 
 ### 🌐 Service Layer
 - **[`sw.js`](https://app.bitnote.xyz/sw.js)** – Service worker used for PWA support and request interception  
@@ -182,21 +182,27 @@ These are the files that power BitNote, along with their SHA-256 hashes and link
 
 ### 🧱 App Core
 - **[`legacy_app.js`](https://app.bitnote.xyz/pages/js/legacy_app.js)** – The primary application logic and UI handling  
-  `sha256-tVaVKNT3eAmDjJ/SxczcCnenONYbVULNU4rI5PhVK6g=`
+  `sha256-Nh9vxnofc31FBRHUJL8fbXDrF4p5K9Q11fdhOPZugUs=`
 
 ### 🔐 Password Utilities
 - **[`zxcvbn.js`](https://app.bitnote.xyz/pages/js/zxcvbn.js)** – Password strength estimator  
-  `sha256-FxuQZMMw/XFXhJnDHbjZcaFeiASfpTqEw0HPl5je6tq=`
+  `sha256-FxuQZMMw/XFXhJnDHbjZcaFeiASfpTqEw0HPl5je6tg=`
 
 - **[`new_wl.js`](https://app.bitnote.xyz/pages/js/new_wl.js)** – Expanded wordlist for generating secure passphrases  
   `sha256-iZzF53dvnO//nREcmPhEgwO9G/5Mq7UU8oihLCNltoo=`
 
 ### 🎨 Styling
 - **[`index_inline.css`](https://app.bitnote.xyz/pages/css/index_inline.css)** – Critical CSS loaded with the main page  
-  `sha256-jTPMSvEb11BHaDx0w9ZPALLHXFTofYNru6CizVqVVdc=`
+  `sha256-cNpabiKA16hSe3b3kmJzD2KUTljZLFPCTEe+2/6dZ8c=`
 
 - **[`legacy_app.css`](https://app.bitnote.xyz/pages/css/legacy_app.css)** – Remaining styles used across the app  
   `sha256-Qh+toqfaD45xkc+pd3HKOTjXwdYyRefN8mhrnjgnYas=`
+
+### 🛡️ Raw Content Security Policy Header
+
+- `default-src 'self'; connect-src 'self' https://api.avax-test.network https://ava-testnet.public.blastapi.io https://api.avax.network https://avalanche-c-chain-rpc.publicnode.com https://avax.meowrpc.com https://endpoints.omniatech.io https://1rpc.io https://api.coinbase.com; script-src 'strict-dynamic' 'sha256-9f3K+SH47nSVfeCKjM/VYYBzHHgS46+NQJuU9oIp6nY=' 'sha256-G1MiiPq/7Q46PppJHATljkf7tf8ln23NyFwUIjW91Pg=' 'sha256-1uBYQMtnqb8J7BynjBqu8M9McU88ATeIoN9PZsbqcvU=' 'sha256-Nh9vxnofc31FBRHUJL8fbXDrF4p5K9Q11fdhOPZugUs=' 'sha256-FxuQZMMw/XFXhJnDHbjZcaFeiASfpTqEw0HPl5je6tg=' 'sha256-iZzF53dvnO//nREcmPhEgwO9G/5Mg7UU8oihLCNItoo='; style-src 'sha256-cNpabiKA16hSe3b3kmJzD2KUTljZLFPCTEe+2/6dZ8c=' 'sha256-Qh+toqfaD45xkc+pd3HKOTjXwdYyRefN8mhrnjgnYas=';worker-src 'self' blob:;img-src 'self' data:;`
+
+- `sha256-GtQnJ0eyKFJCKBM7Gv2TToW1Vu0JsCoDfjcHY6WILSg=`
 
 ---
 
