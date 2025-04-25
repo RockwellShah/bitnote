@@ -46,7 +46,7 @@ After tapping [sign up](https://app.bitnote.xyz/?sign_up), you’ll be asked to 
 
 BitNote is a “pay as you go” system. No subscriptions or recurring fees. You pay only to create/edit/delete notes, and viewing notes is free.
 
-Generally, it costs less than $1 to setup your account. Note costs vary by length, but it'll usually come in around ~$0.005, allowing you to create even thousands of notes fairly inexpensively.
+Generally, it costs less than $1 to setup your account. Note costs vary by length, but it'll usually come in around ~$0.005, allowing you to create even thousands of notes cost effectively.
 
 ---
 
