@@ -14,15 +14,32 @@ Ultra-secure notes powered by blockchain.
 
 BitNote is built for people who want to store sensitive information without trusting big tech, subscriptions, or centralized servers. It’s like a fireproof vault that lives on the blockchain — without the hardware or the hassle. It's great for passwords, private keys, seedphrases, or other sensitive text data.
 
-- ☑️ **Strong Security** — “Military Grade” encryption to keep your secrets safe.  
-- ☑️ **No Recurring Fees** — pay once, no subscriptions.  
-- ☑️ **Zero Knowledge & E2E Encrypted** — only you can see your data.  
-- ☑️ **Decentralized** — no one can delete or block your access.  
-- ☑️ **Truly Private** — no tracking, no personal data collection.  
-- ☑️ **Transparent Source Code** — audit everything, trust nothing.
-- ☑️ **Built to Last** — no bloat, no frameworks, engineered for longevity.
-- ☑️ **Access Anywhere** — no sync, no setup. 
-- ☐ **Succession *(In Development)*** — pass down your data automatically if something happens to you.
+- **✔️ Strong Security**  
+  “Military Grade” encryption to keep your secrets safe.
+
+- **✔️ No Recurring Fees**  
+  Pay once, no subscriptions.
+
+- **✔️ Zero Knowledge & E2E Encrypted**  
+  Only you can see your data.
+
+- **✔️ Decentralized**  
+  No one can delete or block your access.
+
+- **✔️ Truly Private**  
+  No tracking, no personal data collection.
+
+- **✔️ Transparent Source Code**  
+  Audit everything, trust nothing.
+
+- **✔️ Built to Last**  
+  No bloat, no frameworks, engineered for longevity.
+
+- **✔️ Access Anywhere**  
+  No sync, no setup.
+
+- **⏳ Succession (In Development)**  
+  Pass down your data automatically if something happens to you.
 
 ---
 
@@ -80,6 +97,7 @@ Generally, it costs less than $1 to setup your account. Note costs vary by lengt
 | **Secure Search** | Quickly search across your notes securely. | ✅ Available |
 | **Offline Mode** | Use BitNote even while you're fully offline. | ✅ Available |
 | **Secure Updater** | BitNote website updates are default opt-in, protecting you from supply chain attacks. | ✅ Available |
+| **Code Alert** | Automatic notification of code tampering, protecting you from supply chain attacks. | ✅ Available |
 | **Backup Keys** | Add unlimited backup hardware security keys to access your account | ✅ Available |
 | **Fiat Onramp** | Pay with Credit/Debit/Apple Pay | ✅ Available |
 | **Decentralized App** | The entire app will be hosted on-chain for full decentralization. | 🕒 Upcoming |
@@ -130,7 +148,7 @@ For additional security, all the client side computation is handled within a web
 
 ### 🚨 Advanced Protection
 
-While BitNote may look like a simple app, it has a number of advanced features that help protect you, including:
+BitNote has a number of advanced features that help protect you, including:
 
 1. **Opt-In Updates**: BitNote updates are explicitly opt-in, meaning that you have to accept them before they happen. This gives you the opportunity to check to make sure the update is safe before applying it.
 <p align="left">
