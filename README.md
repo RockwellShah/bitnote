@@ -28,7 +28,7 @@ BitNote is built for people who want to store sensitive information without trus
 
 ### ⚙️ How It Works
 
-1. **Create & Save Secure Notes**: Write your notes in the BitNote app. Your data is encrypted locally before being stored on the blockchain.
+1. **Create Secure Notes**: Write your notes in the BitNote app. Your data is encrypted locally before being stored on the blockchain.
 
 2. **Access Anywhere**: Retrieve your encrypted notes from any device with a browser. Decryption happens locally, ensuring privacy.
 
@@ -46,7 +46,7 @@ After tapping [sign up](https://app.bitnote.xyz/?sign_up), you’ll be asked to 
 
 BitNote is a “pay as you go” system. No subscriptions or recurring fees. You pay only to create/edit/delete notes, and viewing notes is free.
 
-Generally, it costs less than $1 to setup your account. Note costs vary by length, but it'll usually come in around ~$0.005, allowing you to create even thousands of notes fairly cheaply.
+Generally, it costs less than $1 to setup your account. Note costs vary by length, but it'll usually come in around ~$0.005, allowing you to create even thousands of notes fairly inexpensively.
 
 ---
 
