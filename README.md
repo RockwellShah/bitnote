@@ -63,7 +63,7 @@ After tapping [sign up](https://app.bitnote.xyz/?sign_up), you’ll be asked to 
 
 BitNote is a “pay as you go” system. No subscriptions or recurring fees. You pay only to create/edit/delete notes, and viewing notes is free.
 
-Generally, it costs less than $1 to setup your account. Note costs vary by length, but it'll usually come in around ~$0.005, allowing you to create even thousands of notes cost effectively.
+Setup typically costs under $1. Creating notes costs about ~$0.005 each — making it affordable even for thousands of notes.
 
 ---
 
@@ -230,6 +230,21 @@ Yes. BitNote has been audited by Cure53, a very reputable cybersecurity firm.
 
 - [Summary of the Audit](https://app.bitnote.xyz/pages/docs/rve-01-summary.pdf)  
 - [Full Audit Report](https://app.bitnote.xyz/pages/docs/rve-01-report_final.pdf)
+
+---
+
+### 🫥 What Happens if BitNote Disappears?
+
+Your data is stored on the blockchain, not on BitNote. The BitNote app allows you to easily access your data on the blockchain, but there are multiple ways to do that if the BitNote website disappears, including: 
+- Using the locally installable version of BitNote
+- Using the built in secure export feature to access your raw data
+- Communicating directly with the smart contracts to pull your data
+- Accessing your data directly from a blockchain explorer
+- Using an alternative front end
+
+Because BitNote's code is openly available, if it ever goes down it can be re-created fairly easily.
+
+For more FAQs, see the [BitNote website](https://bitnote.xyz).
 
 ---
 
