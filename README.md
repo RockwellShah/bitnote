@@ -108,7 +108,7 @@ Setup typically costs under $1. Creating notes costs about ~$0.005 each — maki
 ### 📺 Screenshots
 
 <p align="center">
-  <img src="homescreen.jpg" width="500" alt="Home screen" />
+  <img src="group61.png" width="500" alt="Home screen" />
   <img src="note.webp" width="500" alt="Note view" />
 </p>
 
