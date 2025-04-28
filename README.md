@@ -100,7 +100,7 @@ Setup typically costs under $1. Creating notes costs about ~$0.005 each — maki
 | **Code Alert** | Automatic notification of code tampering, protecting you from supply chain attacks. | ✅ Available |
 | **Backup Keys** | Add unlimited backup hardware security keys to access your account | ✅ Available |
 | **Fiat Onramp** | Pay with Credit/Debit/Apple Pay | ✅ Available |
-| **Decentralized App** | The entire app will be hosted on-chain for full decentralization. | 🕒 Upcoming |
+| **Decentralized App** | The entire app will be hosted on-chain for full decentralization. | 🕒 Partially Complete |
 | **Succession** | Pass down your data automatically if something happens to you | 🕒 Upcoming |
 
 ---
@@ -123,6 +123,13 @@ For additional security, BitNote can be locally installed as a progressive web a
 - **Frontend**: Pure HTML/CSS/JS — no frameworks, under 1MB  
 - **Backend**: Smart contracts written in Solidity hosted on the Avalanche blockchain (C-Chain) 
 - **Encryption**: AES-256 using the WebCrypto API, with a browser-based zero-knowledge architecture that supports full offline mode
+- **Loading**: The core portions of the app load directly from the blockchain itself for stronger levels of decentralization and security
+
+---
+
+### ♾️ Forever Machine
+
+One of the eventual goals of BitNote is to create a "Forever Machine" - an app that can live directly on the blockchain and do its job without fear of ever disappearing. Ultimately, BitNote is a protocol, not a company. The system is designed to minimize points of failure and to last for many years.
 
 ---
 
@@ -191,15 +198,15 @@ These are the files that power BitNote, along with their SHA-256 hashes and link
   `sha256-9f3K+SH47nSVfeCKjM/VYYBzHHgS46+NQJuU9oIp6nY=`
 
 ### 🔐 Encryption Engine
-- **[`ww.js`](https://app.bitnote.xyz/pages/js/ww.js)** – Handles all encryption; runs in a dedicated web worker  
+- **[`ww.js`](https://app.bitnote.xyz/pages/js/ww.js)** – Handles all encryption; runs in a dedicated web worker. Loads directly from the blockchain. 
   `sha256-G1MiiPq/7Q46PppJHATljkf7tf8ln23NyFwUIjW91Pg=`
 
 ### 🌐 Service Layer
-- **[`sw.js`](https://app.bitnote.xyz/sw.js)** – Service worker used for PWA support and request interception  
+- **[`sw.js`](https://app.bitnote.xyz/sw.js)** – Service worker used for PWA support and request interception. Loads directly from the blockchain.
   `sha256-1uBYQMtnqb8J7BynjBqu8M9McU88ATeloN9PZsbqcvU=`
 
 ### 🧱 App Core
-- **[`legacy_app.js`](https://app.bitnote.xyz/pages/js/legacy_app.js)** – The primary application logic and UI handling  
+- **[`legacy_app.js`](https://app.bitnote.xyz/pages/js/legacy_app.js)** – The primary application logic and UI handling. Loads directly from the blockchain.
   `sha256-Nh9vxnofc31FBRHUJL8fbXDrF4p5K9Q11fdhOPZugUs=`
 
 ### 🔐 Password Utilities
@@ -213,7 +220,7 @@ These are the files that power BitNote, along with their SHA-256 hashes and link
 - **[`index_inline.css`](https://app.bitnote.xyz/pages/css/index_inline.css)** – Critical CSS loaded with the main page  
   `sha256-cNpabiKA16hSe3b3kmJzD2KUTljZLFPCTEe+2/6dZ8c=`
 
-- **[`legacy_app.css`](https://app.bitnote.xyz/pages/css/legacy_app.css)** – Remaining styles used across the app  
+- **[`legacy_app.css`](https://app.bitnote.xyz/pages/css/legacy_app.css)** – Remaining styles used across the app. Loads directly from the blockchain. 
   `sha256-Qh+toqfaD45xkc+pd3HKOTjXwdYyRefN8mhrnjgnYas=`
 
 ### 🛡️ Raw Content Security Policy Header
