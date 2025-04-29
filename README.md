@@ -5,7 +5,7 @@ Ultra-secure notes powered by blockchain.
 🔗 [bitnote.xyz](https://bitnote.xyz)
 
 <p align="left">
-  <img src="hero.png" alt="BitNote Hero Image" width="1000"/>
+  <img src="screenshots/hero.png" alt="BitNote Hero Image" width="1000"/>
 </p>
 
 ---
@@ -108,8 +108,8 @@ Setup typically costs under $1. Creating notes costs about ~$0.005 each — maki
 ### 📺 Screenshots
 
 <p align="center">
-  <img src="group61.png" width="500" alt="Home screen" />
-  <img src="note.webp" width="500" alt="Note view" />
+  <img src="screenshots/group61.png" width="500" alt="Home screen" />
+  <img src="screenshots/note.webp" width="500" alt="Note view" />
 </p>
 
 ---
@@ -159,7 +159,7 @@ BitNote has a number of advanced features that help protect you, including:
 
 1. **Opt-In Updates**: BitNote updates are explicitly opt-in, meaning that you have to accept them before they happen. This gives you the opportunity to check to make sure the update is safe before applying it.
 <p align="left">
-  <img src="updates.png" alt="BitNote Update Bar" width="1000"/>
+  <img src="screenshots/updates.png" alt="BitNote Update Bar" width="1000"/>
 </p>
 
 2. **Code Alert**: BitNote has a built in system to alert you if the version you have cached locally does not match what is being served to you through the web. This helps protect you against "supply chain attacks." If you ever see this alert come up on your app, please send a message through email/X/telegram and check BitNote's social channels to see if there is a legitimate reason for this before continuing to use the app.
@@ -169,7 +169,7 @@ BitNote has a number of advanced features that help protect you, including:
 
 3. **Cost to Crack**: If you choose to secure your account with a master password, we estimate your password strength with a “cost to crack” calculation that estimates how much an attacker would have to spend in compute resources to brute force your password.
 <p align="center">
-  <img src="cost.png" alt="BitNote Alert Bar" width="500"/>
+  <img src="screenshots/cost.png" alt="BitNote Alert Bar" width="500"/>
 </p>
 
 ---
