@@ -255,6 +255,18 @@ For more FAQs, see the [BitNote website](https://bitnote.xyz).
 
 ---
 
+### ⛓️‍💥 Why did we choose the AVAX C-Chain as our blockchain?
+
+The AVAX C-Chain has a great combination of qualities: 
+
+ 1. It's fairly decentralized with ~1,500 validators
+ 2. Transactions are inexpensive
+ 3. It's EVM compatible
+ 4. It has very fast finality, so you can save notes quickly
+ 5. It's very reliable, and has basically no down time or outages
+
+---
+
 ### 🔐 License
 
 BitNote is licensed under BSL 1.1. It will automatically trigger an open source transition to GPL v3.0 on **May 1, 2028**.  
