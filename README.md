@@ -164,7 +164,7 @@ BitNote has a number of advanced features that help protect you, including:
 
 2. **Code Alert**: BitNote has a built in system to alert you if the version you have cached locally does not match what is being served to you through the web. This helps protect you against "supply chain attacks." If you ever see this alert come up on your app, please send a message through email/X/telegram and check BitNote's social channels to see if there is a legitimate reason for this before continuing to use the app.
 <p align="left">
-  <img src="alert.png" alt="BitNote Alert Bar" width="1000"/>
+  <img src="screenshots/alert.png" alt="BitNote Alert Bar" width="1000"/>
 </p>
 
 3. **Cost to Crack**: If you choose to secure your account with a master password, we estimate your password strength with a “cost to crack” calculation that estimates how much an attacker would have to spend in compute resources to brute force your password.
