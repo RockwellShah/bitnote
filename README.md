@@ -1,7 +1,8 @@
 # 🔒 BitNote
 
 **Protect Your Secrets. Forever.**  
-Ultra-secure notes powered by blockchain.  
+Private vault for passwords, keys, and notes. Built to outlive any company. Pay once. Own it for life.
+
 🔗 [bitnote.xyz](https://bitnote.xyz)
 
 <p align="left">
