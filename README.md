@@ -1,7 +1,7 @@
 # 🔒 BitNote
 
 **Protect Your Secrets. Forever.**  
-Private vault for passwords, keys, and notes. Built to outlive any company. Pay once. Own it for life.
+Private vault for passwords, keys, and notes — built to outlive any company.
 
 🔗 [bitnote.xyz](https://bitnote.xyz)
 
