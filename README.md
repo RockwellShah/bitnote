@@ -13,7 +13,7 @@ Private vault for passwords, keys, and notes. Built to outlive any company. Pay 
 
 ### ✅ Why BitNote
 
-BitNote is built for people who want to store sensitive information without trusting big tech, subscriptions, or centralized servers. It’s like a fireproof vault that lives on the blockchain — without the hardware or the hassle. It's great for passwords, private keys, seedphrases, or other sensitive text data.
+BitNote is built for people who want to store sensitive information without trusting big tech, subscriptions, or centralized servers. It’s like a fireproof vault that lives on the blockchain, without the hardware or the hassle. It's great for passwords, private keys, seedphrases, or other sensitive text data.
 
 - **✔️ Strong Security**  
   “Military Grade” encryption to keep your secrets safe.
