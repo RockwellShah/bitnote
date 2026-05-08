@@ -75,6 +75,7 @@ Setup typically costs under $1. Creating notes costs about ~$0.005 each — maki
 - Private keys 
 - Crypto seed phrases  
 - Personal notes, ideas, and secrets meant to last
+- Encrypted memory for sovereign ai agents
 - Deadbox or dead man’s switch - storing information that you want passed down in case something happens to you.
 - Digital treasure hunt - leave clues that lead people to the username and password that decrypts a BitNote account and reveals a prize.
 - Private Journal - use BitNote as a diary that you can optionally pass down to future generations.
